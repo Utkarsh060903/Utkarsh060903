@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm Utkarsh Barsaiyan
 
 ### 👨‍💻 Full Stack Developer | Passionate about Scalable Solutions | Lifelong Learner
