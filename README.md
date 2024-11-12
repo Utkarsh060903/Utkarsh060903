@@ -1,5 +1,3 @@
-Here’s an updated README that includes mentions of your internships:
-
 ---
 
 # 👋 Hi, I'm Utkarsh Barsaiyan
