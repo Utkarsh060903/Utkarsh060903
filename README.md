@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I’m a software developer with a keen interest in
 
 - **Languages:** JavaScript, TypeScript, C++
 - **Frontend:** React.js, Next.js, Tailwind CSS, GSAP
-- **Backend:** Node.js, Express, MongoDB, RESTful APIs
-- **Other:** Stripe API, JWT Authentication, Shopify Remix, Figma
+- **Backend:** Node.js, Express, MongoDB, MySQL, RESTful APIs
+- **Other:** Stripe API, JWT Authentication, Shopify Remix, Figma, Firebase, Socket.io
 
 ---
 
