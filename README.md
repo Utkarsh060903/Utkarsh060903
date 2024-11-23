@@ -30,15 +30,15 @@ Welcome to my GitHub profile! I’m a software developer with a keen interest in
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** JavaScript, TypeScript, C++
-- **Frontend:** React.js, Next.js, Tailwind CSS, GSAP
+- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express, MongoDB, MySQL, RESTful APIs
-- **Other:** Stripe API, JWT Authentication, Shopify Remix, Figma, Firebase, Socket.io
+- **Other:** Stripe API, JWT Authentication, Shopify Remix, Figma, Firebase, Socket.io, Redux
 
 ---
 
 ### 🌱 Currently Exploring
 
-I am constantly learning and growing my skill set, currently diving deeper into **TypeScript**, **GraphQL**, and **AI integration** for smarter applications. Each project I work on is a chance to expand my technical knowledge and tackle new challenges.
+I am constantly learning and growing my skill set, currently diving deeper into **TypeScript** and **AI integration** for smarter applications. Each project I work on is a chance to expand my technical knowledge and tackle new challenges.
 
 ---
 
