@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a software developer with a keen interest in
 
 ### 🧑‍💼 Internship Experience
 
-- **Whatbytes**: During my internship at Whatbytes, I developed scalable UI components for the Greenmile app, a Shopify-based solution for U.S. manufacturers. I worked on responsive design, API integrations, and dynamic pricing using Shopify’s Liquid objects, improving data connectivity and user experience.
+- **Whatbytes**: I developed a responsive UI for the Greenmile app, a Shopify Remix-based platform for U.S. manufacturers, adhering closely to Figma designs. I integrated APIs to connect manufacturer stores to Greenmile and implemented dynamic pricing using Shopify Liquid, enhancing functionality and user experience. At LoginRadius, I revamped the UI by incorporating advanced animations and SVGs, leading to increased traffic and improved customer satisfaction. Additionally, I contributed to the ReportGen project by managing user authorization, creating a responsive UI, and integrating APIs to generate reports from Excel data. These experiences reflect my expertise in UI development, API integration, and dynamic pricing across various platforms.
 
 - **Rhyno EV**: At Rhyno EV, I built a smooth and dynamic frontend using React.js and GSAP, designing an admin panel to manage pre-book registrations and implementing responsive, interactive elements for an electric vehicle comparison page.
 
