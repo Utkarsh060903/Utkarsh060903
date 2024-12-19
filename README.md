@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I’m a software developer with a keen interest in
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** JavaScript, TypeScript, C++
-- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap
+- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, MterialUI
 - **Backend:** Node.js, Express, MongoDB, MySQL, RESTful APIs
 - **Other:** Stripe API, JWT Authentication, Shopify Remix, Figma, Firebase, Socket.io, Redux
 
