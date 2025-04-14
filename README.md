@@ -52,5 +52,5 @@ I'm a full stack developer passionate about building robust, user-focused web ap
 
 ## 🤝 Connect with Me
 
-- **LinkedIn:** [Utkarsh Barsaiyan](https://www.linkedin.com/in/utkarsh-barsaiyan-a76422247)  
+- **LinkedIn:** [Utkarsh Barsaiyan](https://www.linkedin.com/in/utkarsh-barsaiyan/)  
 - **Email:** utkarsh060903@gmail.com
