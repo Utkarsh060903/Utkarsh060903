@@ -23,13 +23,13 @@ I'm a full stack developer passionate about building robust, user-focused web ap
 
 ## 🚀 Featured Projects
 
-- **[Tomato - Food Delivery Platform](https://github.com/yourusername/tomato)**  
+- **[Tomato - Food Delivery Platform](https://github.com/Utkarsh060903/Food_Delievery_App)**  
   Stripe-integrated app with real-time content management and a responsive UI.
 
-- **[LNMIIT Guest House Booking System](https://github.com/yourusername/guest-house)**  
+- **[LNMIIT Guest House Booking System](https://github.com/Utkarsh060903/Podcast_Streaming_App)**  
   Booking management system with approval workflows, error handling, and room availability features.
 
-- **[Podstream - Podcast Platform](https://github.com/yourusername/podstream)**  
+- **[Podstream - Podcast Platform](https://github.com/Utkarsh060903/lnmiit2)**  
   OTP-based registration, podcast categorization, and seamless playback experience.
 
 ---
