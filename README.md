@@ -1,6 +1,6 @@
 # 👋 Utkarsh Barsaiyan
 
-### Full Stack Developer | Scalable Systems Enthusiast | Lifelong Learner
+### Full Stack Developer | Lifelong Learner
 
 I'm a full stack developer passionate about building robust, user-focused web applications. I specialize in creating scalable backend systems and responsive frontends using modern frameworks and tools.
 
