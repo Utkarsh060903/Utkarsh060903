@@ -26,8 +26,8 @@ I'm a full stack developer passionate about building robust, user-focused web ap
 - **[Tomato - Food Delivery Platform](https://github.com/Utkarsh060903/Food_Delievery_App)**  
   Stripe-integrated app with real-time content management and a responsive UI.
 
-- **[LNMIIT Guest House Booking System](https://github.com/Utkarsh060903/Podcast_Streaming_App)**  
-  Booking management system with approval workflows, error handling, and room availability features.
+- **[Live Polling System](https://github.com/Utkarsh060903/Polling-system)**  
+  Developed a real-time live polling web app using React, Node.js, and Socket.io, featuring instant result updates, role-based access, session management, and a scalable event-driven backend.
 
 - **[Podstream - Podcast Platform](https://github.com/Utkarsh060903/lnmiit2)**  
   OTP-based registration, podcast categorization, and seamless playback experience.
