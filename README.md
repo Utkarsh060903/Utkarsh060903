@@ -38,7 +38,7 @@ I'm a full stack developer passionate about building robust, user-focused web ap
 
 - **Languages:** JavaScript, TypeScript, C++, Python  
 - **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Material UI  
-- **Backend:** Node.js, Express, MongoDB, MySQL, Django, REST APIs  
+- **Backend:** Node.js, Express, MongoDB, MySQL, Django, REST APIs, Socket.io 
 - **Tools & Platforms:** Shopify, Firebase, AWS, Redux, Figma, Github
 
 ---
