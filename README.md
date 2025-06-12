@@ -29,7 +29,7 @@ I'm a full stack developer passionate about building robust, user-focused web ap
 - **[Tomato - Food Delivery Platform](https://github.com/Utkarsh060903/Food_Delievery_App)**  
   Stripe-integrated app with real-time content management and a responsive UI.
 
-- **[Podstream - Podcast Platform](https://github.com/Utkarsh060903/lnmiit2)**  
+- **[Podstream - Podcast Streaming Platform](https://github.com/Utkarsh060903/lnmiit2)**  
   OTP-based registration, podcast categorization, and seamless playback experience.
 
 ---
