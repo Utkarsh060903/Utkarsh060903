@@ -43,13 +43,6 @@ I'm a full stack developer passionate about building robust, user-focused web ap
 
 ---
 
-## 🌱 Currently Exploring
-
-- TypeScript for type-safe development  
-- AI integrations for intelligent, scalable applications
-
----
-
 ## 🤝 Connect with Me
 
 - **Email:** utkarsh060903@gmail.com
