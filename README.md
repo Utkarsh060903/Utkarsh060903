@@ -23,6 +23,9 @@ I'm a full stack developer passionate about building robust, user-focused web ap
 
 ## 🚀 Featured Projects
 
+- **[Budget Brain](https://github.com/Utkarsh060903/BudgetBrain)**  
+  Built a full-stack financial management platform with real-time tracking, Gemini-powered chatbot, goal monitoring, and AI-driven customer segmentation and anomaly detection for 1,000+ users.
+
 - **[Live Polling System](https://github.com/Utkarsh060903/Polling-system)**  
   Developed a real-time live polling web app using React, Node.js, and Socket.io, featuring instant result updates, role-based access, session management, and a scalable event-driven backend.
 
