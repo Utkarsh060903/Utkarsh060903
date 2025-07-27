@@ -11,7 +11,7 @@ I'm a full stack developer passionate about building robust, user-focused web ap
 ### OneDose AI
 - Revamped prescription flow and integrated 6+ APIs to automate AI-driven medication management.
 - Secured auth with JWT and refresh tokens, reducing session failures by 40%.
-- Optimizing UI with Next.js and TanStack Query, cutting API load time by 30%.
+- Optimizing UI with Next.js and Typescript, cutting API load time by 30%.
 
 ### Whatbytes
 - Developed responsive UIs for Greenmile (Shopify Remix app) based on Figma designs.
