@@ -8,16 +8,17 @@ I'm a full stack developer passionate about building robust, user-focused web ap
 
 ## 💼 Internship Experience
 
+### OneDose AI
+- Revamped prescription flow and integrated 6+ APIs to automate AI-driven medication management.
+- Secured auth with JWT and refresh tokens, reducing session failures by 40%.
+- Optimizing UI with Next.js and TanStack Query, cutting API load time by 30%.
+
 ### Whatbytes
 - Developed responsive UIs for Greenmile (Shopify Remix app) based on Figma designs.
 - Integrated APIs and implemented dynamic pricing using Shopify Liquid.
 - Revamped LoginRadius UI with advanced animations and SVGs, enhancing user engagement.
 - Contributed to ReportGen: handled authorization, responsive UI, and Excel-to-report API integration.
 
-### Rhyno EV
-- Built dynamic frontend with React.js and GSAP.
-- Developed admin panel for managing pre-bookings.
-- Designed an interactive comparison page for EV products.
 
 ---
 
